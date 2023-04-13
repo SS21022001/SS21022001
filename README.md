@@ -27,6 +27,8 @@
 
 [![@ss21022001's Holopin board](https://holopin.me/ss21022001)](https://holopin.io/ss21022001)
 
+## 🎯 Tryhackme Board:
+<img src="https://tryhackme-badges.s3.amazonaws.com/copilotexhilara.png" alt="TryHackMe">
 
 <!---
 SS21022001/SS21022001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
