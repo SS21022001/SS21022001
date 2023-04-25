@@ -3,6 +3,8 @@
 ## I'm a Student,Pentester! and interested in Ethical Hacking!
 - 🌱 I’m currently learning Cyber security
 - 👯 I’m looking to collaborate on projects related to cyber security domain
+- 💬 Ask me about Cyber Security
+- 📫 How to reach me: https://www.linkedin.com/in/sanskar-saxena-a58b641a9/
 - :exclamation: Red Teamer
 
 ## 💬 Connect with me:
