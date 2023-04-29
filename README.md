@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">
-<img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>, I'm Sanskar Saxena</h1>
+<img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a> I'm Sanskar Saxena</h1>
 
 ## I'm a Student,Pentester! and interested in Ethical Hacking!
 - 🌱 I’m currently learning Cyber security
