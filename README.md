@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on projects related to cyber security domain
 - 💬 Ask me about Cyber Security
 - 📫 How to reach me: https://www.linkedin.com/in/sanskar-saxena-a58b641a9/
-- :exclamation: Red Teamer
+- :exclamation: Blue Teamer
 
 ## 💬 Connect with me:
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
