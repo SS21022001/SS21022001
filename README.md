@@ -9,7 +9,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/sanskar-saxena-a58b641a9/
 - :exclamation: Blue Teamer
 
-## 💬 Connect with me:
+# 💬 Connect with me:
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align="center">
 <a href="https://github.com/SS21022001">
@@ -32,7 +32,7 @@
 
 [![@ss21022001's Holopin board](https://holopin.me/ss21022001)](https://holopin.io/ss21022001)
 
-## 🎯 Tryhackme Board:
+# 🎯 Tryhackme Board:
 <img src="https://tryhackme-badges.s3.amazonaws.com/copilotexhilara.png" alt="TryHackMe">
 <!---
 SS21022001/SS21022001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
